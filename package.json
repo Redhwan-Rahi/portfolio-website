@@ -1,0 +1,24 @@
+{
+  "name": "redhwan.com",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.html",
+  
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redhwan-Rahi/Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redhwan-Rahi/Website/issues"
+  },
+  "homepage": "https://github.com/Redhwan-Rahi/Website#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
